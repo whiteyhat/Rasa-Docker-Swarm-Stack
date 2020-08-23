@@ -1,0 +1,7 @@
+
+docker-compose.yaml
+*.log
+rasa/
+.env
+logs/
+data/
